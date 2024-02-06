@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".link-wocc.linkro-wocc.selected/a"
+}

@@ -1,0 +1,7 @@
+{
+  "cookie": {
+    "name": "permissions.default.desktop-notification",
+    "value": "1",
+    "domain": "https://www.dailymail.co.uk/video/index.html"
+  }
+}

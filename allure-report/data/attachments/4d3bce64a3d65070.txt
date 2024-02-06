@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".link-wocc.linkro-wocc.#page-container > div.page-header.bdrgr2 > ul > li.sport > span > a"
+}

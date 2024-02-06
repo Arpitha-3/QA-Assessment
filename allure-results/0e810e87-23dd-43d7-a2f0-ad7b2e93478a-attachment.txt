@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".mol-skip-control.vjs-control"
+}

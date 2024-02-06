@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".tabs_1UkK9 a.tab_1LRzC[href=\"/sport/football/premier-league/tables.html\"]"
+}

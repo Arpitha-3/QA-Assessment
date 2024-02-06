@@ -1,0 +1,9 @@
+{
+  "script": "return ((element) => {\n        console.log('Before checking clickable state');\n        element.scrollIntoView({ behavior: 'smooth' });\n        console.log('After checking clickable state');\n    }).apply(null, arguments)",
+  "args": [
+    {
+      "element-6066-11e4-a52e-4f735466cecf": "D81E74685E9542BC2A6ABAA5881EC785_element_133",
+      "ELEMENT": "D81E74685E9542BC2A6ABAA5881EC785_element_133"
+    }
+  ]
+}

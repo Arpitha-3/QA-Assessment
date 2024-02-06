@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"vjs-big-play-button\"}\n  (Session info: chrome=121.0.6167.86)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6AE975E42+3538674]\n\t(No symbol) [0x00007FF6AE594C02]\n\t(No symbol) [0x00007FF6AE445AEB]\n\t(No symbol) [0x00007FF6AE48BF4E]\n\t(No symbol) [0x00007FF6AE48C0CC]\n\t(No symbol) [0x00007FF6AE4CE477]\n\t(No symbol) [0x00007FF6AE4AF0EF]\n\t(No symbol) [0x00007FF6AE4CBDE3]\n\t(No symbol) [0x00007FF6AE4AEE53]\n\t(No symbol) [0x00007FF6AE47F514]\n\t(No symbol) [0x00007FF6AE480631]\n\tGetHandleVerifier [0x00007FF6AE9A6CAD+3738973]\n\tGetHandleVerifier [0x00007FF6AE9FC506+4089270]\n\tGetHandleVerifier [0x00007FF6AE9F4823+4057299]\n\tGetHandleVerifier [0x00007FF6AE6C5C49+720121]\n\t(No symbol) [0x00007FF6AE5A126F]\n\t(No symbol) [0x00007FF6AE59C304]\n\t(No symbol) [0x00007FF6AE59C432]\n\t(No symbol) [0x00007FF6AE58BD04]\n\tBaseThreadInitThunk [0x00007FF8C59B257D+29]\n\tRtlUserThreadStart [0x00007FF8C6C6AA58+40]\n"
+}

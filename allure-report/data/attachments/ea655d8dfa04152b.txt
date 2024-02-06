@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"button[data-cookie-accept=\"true\"]\"}\n  (Session info: chrome=121.0.6167.86)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF779525E42+3538674]\n\t(No symbol) [0x00007FF779144C02]\n\t(No symbol) [0x00007FF778FF5AEB]\n\t(No symbol) [0x00007FF77903BF4E]\n\t(No symbol) [0x00007FF77903C0CC]\n\t(No symbol) [0x00007FF77907E477]\n\t(No symbol) [0x00007FF77905F0EF]\n\t(No symbol) [0x00007FF77907BDE3]\n\t(No symbol) [0x00007FF77905EE53]\n\t(No symbol) [0x00007FF77902F514]\n\t(No symbol) [0x00007FF779030631]\n\tGetHandleVerifier [0x00007FF779556CAD+3738973]\n\tGetHandleVerifier [0x00007FF7795AC506+4089270]\n\tGetHandleVerifier [0x00007FF7795A4823+4057299]\n\tGetHandleVerifier [0x00007FF779275C49+720121]\n\t(No symbol) [0x00007FF77915126F]\n\t(No symbol) [0x00007FF77914C304]\n\t(No symbol) [0x00007FF77914C432]\n\t(No symbol) [0x00007FF77913BD04]\n\tBaseThreadInitThunk [0x00007FF8C59B257D+29]\n\tRtlUserThreadStart [0x00007FF8C6C6AA58+40]\n"
+}

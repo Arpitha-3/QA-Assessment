@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".button_cVc76.primary_vX6Hs\"}\n  (Session info: chrome=121.0.6167.87)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7B0F15E42+3538674]\n\t(No symbol) [0x00007FF7B0B34C02]\n\t(No symbol) [0x00007FF7B09E5AEB]\n\t(No symbol) [0x00007FF7B0A2BF4E]\n\t(No symbol) [0x00007FF7B0A2C0CC]\n\t(No symbol) [0x00007FF7B0A6E477]\n\t(No symbol) [0x00007FF7B0A4F0EF]\n\t(No symbol) [0x00007FF7B0A6BDE3]\n\t(No symbol) [0x00007FF7B0A4EE53]\n\t(No symbol) [0x00007FF7B0A1F514]\n\t(No symbol) [0x00007FF7B0A20631]\n\tGetHandleVerifier [0x00007FF7B0F46CAD+3738973]\n\tGetHandleVerifier [0x00007FF7B0F9C506+4089270]\n\tGetHandleVerifier [0x00007FF7B0F94823+4057299]\n\tGetHandleVerifier [0x00007FF7B0C65C49+720121]\n\t(No symbol) [0x00007FF7B0B4126F]\n\t(No symbol) [0x00007FF7B0B3C304]\n\t(No symbol) [0x00007FF7B0B3C432]\n\t(No symbol) [0x00007FF7B0B2BD04]\n\tBaseThreadInitThunk [0x00007FF8C59B257D+29]\n\tRtlUserThreadStart [0x00007FF8C6C6AA58+40]\n"
+}

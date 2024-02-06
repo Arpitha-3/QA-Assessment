@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".mol-previous-control.vjs-control"
+}
